@@ -1,0 +1,17 @@
+# Ambiente virtual
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# Mac
+.DS_Store

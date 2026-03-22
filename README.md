@@ -49,7 +49,7 @@ As respostas de todas as questões estão implementadas e detalhadas nos noteboo
 - [Modelo Star Schema](notebooks/09_modeling_star_schema.ipynb)
 - [Dimensão de Datas](notebooks/marts_dimensao_date.ipynb)
 
-
+![Dashboard](imagens/lh_nautical_star.png)
 
 ##  Etapas do Projeto
 

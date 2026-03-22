@@ -22,7 +22,7 @@ As respostas de todas as questões estão implementadas e detalhadas nos noteboo
 
 ---
 
-### 🔍 Análise Exploratória e Limpeza
+###  Análise Exploratória e Limpeza
 
 - [EDA e Limpeza - Vendas](notebooks/eda_and_cleaning_vendas_2023_2024.ipynb)
 - [EDA e Limpeza - Produtos](notebooks/eda_and_cleaning_produtos_raw.ipynb)
@@ -131,8 +131,7 @@ O projeto inclui um dashboard desenvolvido em Power BI com:
 
 ## Principais Insights
 
-- Identificação de produtos vendidos com prejuízo  
-- Clientes com maior valor agregado  
+- Identificação de produtos vendidos com prejuízo   
 - Impacto de dias sem vendas na média semanal  
 - Limitações do modelo baseline de previsão  
 - Recomendações baseadas em comportamento de compra  
@@ -150,10 +149,8 @@ O projeto inclui um dashboard desenvolvido em Power BI com:
 ## Próximos Passos
 
 - Implementar modelos de Machine Learning mais robustos  
-- Criar pipeline automatizado (ETL)  
+- Criar pipeline automatizado (ELT) com dbt e Databricks
 - Deploy do dashboard  
-- Sistema de recomendação híbrido  
-
 
 
 ##  Como Executar o Projeto
@@ -161,7 +158,7 @@ O projeto inclui um dashboard desenvolvido em Power BI com:
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/lh-nautical-data-project.git
+git clone https://github.com/RichardGomesData/lh-nautical-data-project
 cd lh-nautical-data-project
 
 
